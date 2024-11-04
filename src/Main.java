@@ -8,9 +8,12 @@ public class Main {
 
         System.out.println(newCourse);
 
+
+
         newCourse.setCourseName("JAVA 102");
         newCourse.setInstructor("Ali Taqi");
         newCourse.setNumberOfStudentsEnrolled(203);
+
         System.out.println(newCourse);
 
     }
